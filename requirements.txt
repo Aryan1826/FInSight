@@ -1,5 +1,6 @@
 pandas
 prophet
 scikit-learn
-streamlit
+streamlit>=1.35.0
 plotly
+altair<5.0.0
